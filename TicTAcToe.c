@@ -177,11 +177,6 @@ void rules()
     printf("\n\nEnjoy the game! Be a Winner!\n\n");
     printf("For more clarifications press Y else type any other character:- ");
     scanf("%c",&link);
-    if(link=='y' || link=='Y')
-    {
-        system("start http://www.wikihow.com/Play-Tic-Tac-Toe");
-    }
-
 }
 int decision()
 {
